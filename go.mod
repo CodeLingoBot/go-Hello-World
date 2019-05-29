@@ -19,7 +19,7 @@ require (
 	github.com/gobuffalo/httptest v1.0.4
 	github.com/gogo/protobuf v1.2.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/google/go-cmp v0.2.0
+	github.com/google/go-cmp v0.3.0
 	github.com/google/martian v2.1.0+incompatible // indirect
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gax-go v2.0.0+incompatible // indirect
