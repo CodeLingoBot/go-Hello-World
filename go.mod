@@ -27,7 +27,7 @@ require (
 	github.com/gorilla/mux v1.6.2
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/jtolds/gls v4.2.1+incompatible // indirect
-	github.com/kelseyhightower/envconfig v1.3.0
+	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/konsorten/go-windows-terminal-sequences v1.0.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/minio/minio-go v6.0.5+incompatible
