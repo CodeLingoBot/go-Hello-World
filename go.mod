@@ -31,7 +31,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/minio/minio-go v6.0.5+incompatible
-	github.com/mitchellh/go-homedir v1.0.0
+	github.com/mitchellh/go-homedir v1.1.0
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/prometheus/client_golang v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.1.1
