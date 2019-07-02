@@ -1,7 +1,7 @@
 module github.com/gomods/athens
 
 require (
-	cloud.google.com/go v0.26.0
+	cloud.google.com/go v0.41.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.6.0
 	github.com/Azure/azure-storage-blob-go v0.0.0-20181022225951-5152f14ace1c
 	github.com/BurntSushi/toml v0.3.1
