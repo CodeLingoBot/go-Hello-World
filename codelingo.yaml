@@ -1,4 +1,5 @@
 tenets:
+- import: codelingo/cacophony
 - import: codelingo/go/goto
 - import: codelingo/go/golint
 - import: codelingo/effective-go/good-package-name
