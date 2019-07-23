@@ -4,3 +4,4 @@ tenets:
 - import: codelingo/go/golint
 - import: codelingo/effective-go/good-package-name
 - import: codelingo/code-review-comments/go-error-fmt
+- import: codelingo/cacophony/defer-in-loop
